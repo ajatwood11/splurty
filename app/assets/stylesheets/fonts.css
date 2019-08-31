@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'chunkfive_printregular';
+    src: url('chunk_five_print.woff2') format('woff2'),
+         url('chunk_five_print.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'chunkfive_print';
+    src: url('chunk_five_print.woff2') format('woff2'),
+         url('chunk_five_print.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
